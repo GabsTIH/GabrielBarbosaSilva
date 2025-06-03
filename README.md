@@ -17,6 +17,7 @@ Atualmente cursando Engenharia de Software na Universidade Cruzeiro do Sul.
 Eletricista de Manutenção Eletroeletrônica
 
 Conto com uma sólida experiência em tecnologia e gestão, o que me proporciona uma visão multidisciplinar e adaptável na condução dos meus projetos.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
