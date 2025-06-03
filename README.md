@@ -1,4 +1,4 @@
-#💻 Gabriel Barbosa 
+# 💻 Gabriel Barbosa 
 
 **`Desenvolvedor Fullstack em formação`**
 
